@@ -1,0 +1,4 @@
+mvn sonar:sonar \
+  -Dsonar.projectKey=SampleGame \
+  -Dsonar.host.url=http://20.163.196.149:9000 \
+  -Dsonar.login=8e0c006307f5a4606617510dd58e1e20eec0b6f0
